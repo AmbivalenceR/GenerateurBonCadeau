@@ -1,6 +1,6 @@
 # GenerateurBonCadeau
 
-## Exercice n°4: Générateur de bon cadeau
+### Exercice n°4: Générateur de bon cadeau
 
 Le but de cet exercice est de créer un générateur de bon cadeau virtuel en PHP pour une petite boutique locale. Cette solution sera utilisée par le commerçant lors de l'achat d'un bon cadeau par un client, afin de pouvoir générer le bon cadeau sur une page web qu'il pourra ensuite imprimer.
 
@@ -21,4 +21,4 @@ Contenir une méthode permettant d'afficher le bon cadeau avec toutes ses inform
  
 Dans le fichier bon-cadeau.php, récupérez les données envoyées par le formulaire et utilisez les pour créer un nouvel objet BonCadeau. Affichez ensuite le bon cadeau sur la page.
 
-# css à venir
+### css à venir
